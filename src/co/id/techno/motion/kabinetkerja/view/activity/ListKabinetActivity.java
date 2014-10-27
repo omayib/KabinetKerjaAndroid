@@ -4,7 +4,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.AlertDialog.Builder;
+import android.content.DialogInterface;
+import android.content.DialogInterface.OnClickListener;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import co.id.techno.motion.kabinetkerja.R;
 import co.id.techno.motion.kabinetkerja.application.Configuration;
@@ -40,12 +49,49 @@ public class ListKabinetActivity extends Activity {
 		// setup view
 		lvKabinet = (ListView) findViewById(R.id.lvKabinet);
 		lvKabinet.setAdapter(kabinetAdapter);
+		lvKabinet.setOnItemClickListener(new OnItemClickListener() {
+
+			@Override
+			public void onItemClick(AdapterView<?> arg0, View arg1, int arg2,
+					long arg3) {
+				KabinetAdapter adapter = (KabinetAdapter) arg0.getAdapter();
+				dialogAction(adapter.getItem(arg2));
+			}
+		});
 
 		// registering subscribers..
 		registerSubscriber();
 
 		// getting content..
 		controller.getContent();
+	}
+
+	private void dialogAction(final Kabinet selected) {
+		Builder dialogBuilder = new AlertDialog.Builder(this);
+		dialogBuilder.setCancelable(true);
+		dialogBuilder.setMessage("pilih salah satu");
+		dialogBuilder.setPositiveButton("profil", new OnClickListener() {
+
+			@Override
+			public void onClick(DialogInterface dialog, int which) {
+				Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse(selected
+						.getUrlProfile()));
+				startActivity(i);
+				dialog.dismiss();
+			}
+		});
+		dialogBuilder.setNegativeButton("detil", new OnClickListener() {
+
+			@Override
+			public void onClick(DialogInterface dialog, int which) {
+				Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse(selected
+						.getUrlDetail()));
+				startActivity(i);
+				dialog.dismiss();
+			}
+		});
+		dialogBuilder.create();
+		dialogBuilder.show();
 	}
 
 	@Override
