@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Laksamana TNI (Purn.) Tedjo Edhy Purdijatno",
+    "url_profile": "http://id.wikipedia.org/wiki/Tedjo_Edhy_Purdijatno",
+    "position": "Menteri Koordinator Bidang Politik, Hukum, dan Keamanan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/a/a6/Laks-tni-tedjo-edhy.jpg/75px-Laks-tni-tedjo-edhy.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Koordinator_Bidang_Politik,_Hukum,_dan_Keamanan_Indonesia"
+  },
+  {
+    "name": "Sofyan Djalil",
+    "url_profile": "http://id.wikipedia.org/wiki/Sofyan_Djalil",
+    "position": "Menteri Koordinator Bidang Perekonomian",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/e/e0/Kabinet_sofyan.jpg/75px-Kabinet_sofyan.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Koordinator_Bidang_Perekonomian_Indonesia"
+  },
+  {
+    "name": "Indroyono Soesilo",
+    "url_profile": "http://id.wikipedia.org/wiki/Indroyono_Soesilo",
+    "position": "Menteri Koordinator Bidang Kemaritiman",
+    "thumbnail": "http://id.wikipedia.org/wiki/Berkas:Indroyono_Soesilo.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Koordinator_Bidang_Kemaritiman"
+  },
+  {
+    "name": "Puan Maharani",
+    "url_profile": "http://id.wikipedia.org/wiki/Puan_Maharani",
+    "position": "Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/6/66/Puan_maharani.jpg/75px-Puan_maharani.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Koordinator_Bidang_Pembangunan_Manusia_dan_Kebudayaan"
+  },
+  {
+    "name": "Pratikno",
+    "url_profile": "http://id.wikipedia.org/wiki/Pratikno",
+    "position": "Menteri Sekretaris Negara",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/0/05/Pratikno.jpg/75px-Pratikno.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Sekretaris_Negara_Indonesia"
+  },
+  {
+    "name": "Tjahjo Kumolo",
+    "url_profile": "http://upload.wikimedia.org/wikipedia/id/thumb/4/41/Tjahjo_kumolo.jpg/75px-Tjahjo_kumolo.jpg",
+    "position": "Menteri Dalam Negeri",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/4/41/Tjahjo_kumolo.jpg/75px-Tjahjo_kumolo.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Dalam_Negeri_Indonesia"
+  },
+  {
+    "name": "Retno Lestari Priansari Marsudi",
+    "url_profile": "http://id.wikipedia.org/wiki/Retno_Lestari_Priansari_Marsudi",
+    "position": "Menteri Luar Negeri",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/6/62/Retno_Marsudi.jpg/75px-Retno_Marsudi.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Luar_Negeri_Indonesia"
+  },
+  {
+    "name": "Jenderal TNI (Purn.) Ryamizard Ryacudu",
+    "url_profile": "http://id.wikipedia.org/wiki/Ryamizard_Ryacudu",
+    "position": "Menteri Pertahanan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/5/57/Jenderal_TNI_Ryamizard_Ryacudu.png/75px-Jenderal_TNI_Ryamizard_Ryacudu.png",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Pertahanan_Indonesia"
+  },
+  {
+    "name": "Yasonna Laoly",
+    "url_profile": "http://id.wikipedia.org/wiki/Yasonna_Laoly",
+    "position": "Menteri Hukum dan Hak Asasi Manusia",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/4/4a/Yasonna_Laoly.jpg/75px-Yasonna_Laoly.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Hukum_dan_Hak_Asasi_Manusia_Indonesia"
+  },
+  {
+    "name": "Bambang Brodjonegoro",
+    "url_profile": "http://id.wikipedia.org/wiki/Bambang_Brodjonegoro",
+    "position": "Menteri Keuangan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Bambang-brodjonegoro.jpg/75px-Bambang-brodjonegoro.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Keuangan_Indonesia"
+  },
+  {
+    "name": "Sudirman Said",
+    "url_profile": "http://id.wikipedia.org/wiki/Sudirman_Said",
+    "position": "Menteri Energi dan Sumber Daya Mineral",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/7/73/SudirmanSaid.jpg/75px-SudirmanSaid.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Energi_dan_Sumber_Daya_Mineral_Indonesia"
+  },
+  {
+    "name": "Saleh Husin",
+    "url_profile": "http://id.wikipedia.org/wiki/Saleh_Husin",
+    "position": "Menteri Perindustrian",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/b/b8/Saleh_Husin.jpg/75px-Saleh_Husin.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Perindustrian_Indonesia"
+  },
+  {
+    "name": "Rachmat Gobel",
+    "url_profile": "http://id.wikipedia.org/wiki/Rachmat_Gobel",
+    "position": "Menteri Perdagangan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/d/d8/Rahmat-gobel.jpg/75px-Rahmat-gobel.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Perdagangan_Indonesia"
+  },
+  {
+    "name": "Amran Sulaiman",
+    "url_profile": "http://id.wikipedia.org/wiki/Amran_Sulaiman",
+    "position": "Menteri Pertanian",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/1/13/Amran_Sulaiman.jpg/75px-Amran_Sulaiman.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Pertanian_Indonesia"
+  },
+  {
+    "name": "Siti Nurbaya Bakar",
+    "url_profile": "http://id.wikipedia.org/wiki/Siti_Nurbaya_Bakar",
+    "position": "Menteri Lingkungan Hidup dan Kehutanan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/2/2b/Siti_Nurbaya_Bakar.jpg/75px-Siti_Nurbaya_Bakar.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Lingkungan_Hidup_dan_Kehutanan_Indonesia"
+  },
+  {
+    "name": "Ignasius Jonan",
+    "url_profile": "http://id.wikipedia.org/wiki/Ignasius_Jonan",
+    "position": "Menteri Perhubungan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/a/ad/Ignasiusjonan.jpeg/75px-Ignasiusjonan.jpeg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Perhubungan_Indonesia"
+  },
+  {
+    "name": "Susi Pudjiastuti",
+    "url_profile": "http://id.wikipedia.org/wiki/Susi_Pudjiastuti",
+    "position": "Menteri Kelautan dan Perikanan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/c/c6/Susi_Pudjiastuti.jpg/75px-Susi_Pudjiastuti.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Kelautan_dan_Perikanan_Indonesia"
+  },
+  {
+    "name": "Hanif Dhakiri",
+    "url_profile": "http://id.wikipedia.org/wiki/Hanif_Dhakiri",
+    "position": "Menteri Ketenagakerjaan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/5/5d/Hanif_Dhakiri.jpg/75px-Hanif_Dhakiri.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Ketenagakerjaan_Indonesia"
+  },
+  {
+    "name": "Marwan Ja'far",
+    "url_profile": "http://id.wikipedia.org/wiki/Marwan_Ja%27far",
+    "position": "Menteri Desa, Pembangunan Daerah Tinggal dan Transmigrasi",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/3/3d/Marwan_Jafar.jpg/75px-Marwan_Jafar.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Desa,_Pembangunan_Daerah_Tinggal_dan_Transmigrasi_Indonesia"
+  },
+  {
+    "name": "Basuki Hadimuljono",
+    "url_profile": "http://id.wikipedia.org/wiki/Basuki_Hadimuljono",
+    "position": "Menteri Pekerjaan Umum dan Perumahan Rakyat",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Basuki_Hadimuljono.jpg/75px-Basuki_Hadimuljono.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Pekerjaan_Umum_dan_Perumahan_Rakyat_Indonesia"
+  },
+  {
+    "name": "Nila Moeloek",
+    "url_profile": "http://id.wikipedia.org/wiki/Nila_Moeloek",
+    "position": "Menteri Kesehatan",
+    "thumbnail": "http://id.wikipedia.org/wiki/Berkas:Berkas-Prof.Dr.dr._Nila_Djuwita_F.Moeloek_SpM_(K).jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Kesehatan_Indonesia"
+  },
+  {
+    "name": "Anies Baswedan",
+    "url_profile": "http://id.wikipedia.org/wiki/Anies_Baswedan",
+    "position": "Menteri Kebudayaan dan Pendidikan Dasar dan Menengah",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/a/ac/AniesBaswedan1.JPG/75px-AniesBaswedan1.JPG",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Kebudayaan_dan_Pendidikan_Dasar_dan_Menengah_Indonesia"
+  },
+  {
+    "name": "Muhammad Nasir",
+    "url_profile": "http://id.wikipedia.org/wiki/Muhammad_Nasir",
+    "position": "Menteri Riset, Teknologi dan Pendidikan Tinggi",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/6/63/Muhammad_Nasir.jpg/75px-Muhammad_Nasir.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Riset,_Teknologi_dan_Pendidikan_Tinggi_Indonesia"
+  },
+  {
+    "name": "Khofifah Indar Parawansa",
+    "url_profile": "http://id.wikipedia.org/wiki/Khofifah_Indar_Parawansa",
+    "position": "Menteri Sosial",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/4/40/Khofifah_Indar_Parawansa.jpg/75px-Khofifah_Indar_Parawansa.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Sosial_Indonesia"
+  },
+  {
+    "name": "Lukman Hakim Saifuddin",
+    "url_profile": "http://id.wikipedia.org/wiki/Lukman_Hakim_Saifuddin",
+    "position": "Menteri Agama",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/7/7d/Lukman_Hakim_Saifudin.jpg/75px-Lukman_Hakim_Saifudin.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Agama_Indonesia"
+  },
+  {
+    "name": "Arief Yahya",
+    "url_profile": "http://id.wikipedia.org/wiki/Arief_Yahya",
+    "position": "Menteri Pariwisata",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Arief_Yahya_CEO_Telkom.JPG/75px-Arief_Yahya_CEO_Telkom.JPG",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Pariwisata_Indonesia"
+  },
+  {
+    "name": "Rudiantara",
+    "url_profile": "http://id.wikipedia.org/wiki/Rudiantara",
+    "position": "Menteri Komunikasi dan Informatika",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/9/9e/Rudiantara.jpg/75px-Rudiantara.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Komunikasi_dan_Informatika_Indonesia"
+  },
+  {
+    "name": "AA Puspayoga",
+    "url_profile": "http://id.wikipedia.org/wiki/AA_Puspayoga",
+    "position": "Menteri Koperasi dan Usaha Kecil dan Menengah",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/5/53/AA_Puspayoga.jpg/75px-AA_Puspayoga.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Koperasi_dan_Usaha_Kecil_dan_Menengah_Indonesia"
+  },
+  {
+    "name": "Yohana Yembise",
+    "url_profile": "http://id.wikipedia.org/wiki/Yohana_Yembise",
+    "position": "Menteri Pemberdayaan Perempuan dan Perlindungan Anak",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/c/c0/Yohana_Yembise.jpg/75px-Yohana_Yembise.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Pemberdayaan_Perempuan_dan_Perlindungan_Anak_Indonesia"
+  },
+  {
+    "name": "Yuddy Chrisnandi",
+    "url_profile": "http://id.wikipedia.org/wiki/Yuddy_Chrisnandi",
+    "position": "Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/2/2a/Yuddy_Chrisnandi.jpg/75px-Yuddy_Chrisnandi.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Pendayagunaan_Aparatur_Negara_dan_Reformasi_Birokrasi_Indonesia"
+  },
+  {
+    "name": "Andrinof Chaniago",
+    "url_profile": "http://id.wikipedia.org/wiki/Andrinof_Chaniago",
+    "position": "Menteri Perencanaan Pembangunan Nasional/Kepala Badan Perencanaan Pembangunan Nasional",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Andrinof_Chaniago.jpg/75px-Andrinof_Chaniago.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Badan_Perencanaan_Pembangunan_Nasional"
+  },
+  {
+    "name": "Ferry Mursyidan Baldan",
+    "url_profile": "http://id.wikipedia.org/wiki/Ferry_Mursyidan_Baldan",
+    "position": "Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan Nasional",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/c/c0/Ferry_Mursyidan_Baldan.jpg/75px-Ferry_Mursyidan_Baldan.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Agraria_dan_Tata_Ruang_Indonesia"
+  },
+  {
+    "name": "Rini Soemarno",
+    "url_profile": "http://id.wikipedia.org/wiki/Rini_Mariani_Soemarno_Soewandi",
+    "position": "Menteri Badan Usaha Milik Negara",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/c/c6/Rini_soewandi.jpg/75px-Rini_soewandi.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Badan_Usaha_Milik_Negara_Indonesia"
+  },
+  {
+    "name": "Imam Nahrawi",
+    "url_profile": "http://id.wikipedia.org/wiki/Imam_Nahrawi",
+    "position": "Menteri Pemuda dan Olahraga",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/2/21/Imam_Nahrawi.jpg/75px-Imam_Nahrawi.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Menteri_Pemuda_dan_Olahraga_Indonesia"
+  },
+  {
+    "name": "Andhi Nirwanto (Plt.)",
+    "url_profile": "http://id.wikipedia.org/wiki/Andhi_Nirwanto",
+    "position": "Jaksa Agung",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/f/fc/Andhi_Nirwanto.jpg/75px-Andhi_Nirwanto.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Jaksa_Agung_Indonesia"
+  },
+  {
+    "name": "Moeldoko",
+    "url_profile": "http://id.wikipedia.org/wiki/Moeldoko",
+    "position": "Panglima Tentara Nasional Indonesia",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/9/95/Jenderal_TNI_Moeldoko.png/75px-Jenderal_TNI_Moeldoko.png",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Panglima_Tentara_Nasional_Indonesia"
+  },
+  {
+    "name": "Sutarman",
+    "url_profile": "http://id.wikipedia.org/wiki/Sutarman",
+    "position": "Kepala Kepolisian Negara Republik Indonesia",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/9/93/Komjen_Pol_Sutarman.jpg/75px-Komjen_Pol_Sutarman.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Kepala_Kepolisian_Negara_Republik_Indonesia"
+  },
+  {
+    "name": "AM Fachir",
+    "url_profile": "http://id.wikipedia.org/wiki/Abdurrahman_Mohammad_Fachir",
+    "position": "Wakil Menteri Luar Negeri",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/6/69/Abdurrahman_Mohammad_Fachir.jpg/75px-Abdurrahman_Mohammad_Fachir.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Wakil_Menteri_Luar_Negeri_Indonesia"
+  },
+  {
+    "name": "Mardiasmo",
+    "url_profile": "http://id.wikipedia.org/wiki/Mardiasmo",
+    "position": "Wakil Menteri Keuangan",
+    "thumbnail": "http://upload.wikimedia.org/wikipedia/id/thumb/a/aa/Mardiasmo.jpg/75px-Mardiasmo.jpg",
+    "url_detail": "http://id.wikipedia.org/wiki/Daftar_Wakil_Menteri_Keuangan_Indonesia"
+  }
+]
