@@ -69,7 +69,7 @@ public class ListKabinetActivity extends Activity {
 	private void dialogAction(final Kabinet selected) {
 		Builder dialogBuilder = new AlertDialog.Builder(this);
 		dialogBuilder.setCancelable(true);
-		dialogBuilder.setMessage("pilih salah satu");
+		dialogBuilder.setMessage("baca profil / detil kementrian");
 		dialogBuilder.setPositiveButton("profil", new OnClickListener() {
 
 			@Override
